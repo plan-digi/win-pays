@@ -20,7 +20,7 @@ if (fromGoogleAds) {
 function showPopup() {
 
   const REDIRECT_URL =
-  "https://neospinlink.com/hu8g1er7l";
+  "https://boostpath.site/";
 
   if (document.querySelector(".modal-backdrop")) return;
 
